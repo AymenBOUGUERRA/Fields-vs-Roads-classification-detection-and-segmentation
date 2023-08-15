@@ -1,0 +1,13 @@
+train: /home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/train.txt
+val: /home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/val.txt
+
+
+nc: 2
+names: ['field', 'road']
+
+roboflow:
+  workspace: aymen-bouguerra-xcnsf
+  project: inctance-segmentation-of-fields-and-raods-using-dino-as-annotator
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/aymen-bouguerra-xcnsf/inctance-segmentation-of-fields-and-raods-using-dino-as-annotator/dataset/2

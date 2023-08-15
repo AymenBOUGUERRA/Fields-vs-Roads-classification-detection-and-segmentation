@@ -1,0 +1,10 @@
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/8_jpeg.rf.1f2f9363f242c0e690dac001de2e498c.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/4_jpeg.rf.7fa08ba1c7c39b63abdc705ddaf18a0c.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/2_jpeg.rf.37fa81a977691f94899a72a20b163226.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/7_jpeg.rf.c478afe41fa01efe1e702fcbac42cde5.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/10_jpeg.rf.076dea5cce0baa1b4ca3bd992c32e74a.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/3_jpeg.rf.e9e63e98c7a400dca0b14ec183fb830f.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/1_jpeg.rf.a80d1c8a8e8120eee46a9abee24087b5.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/6_jpeg.rf.ef5665532e19ce4006326c3879d3cec8.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/9_jpeg.rf.bd59e70c6d5e1ee7d7ac956ae768434c.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/manual_detection/images/val/5_jpeg.rf.9dac623525431f009a674026f97598d3.jpg

@@ -1,0 +1,16 @@
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/1_jpg.rf.70c877711578a169164f4bc446a19302.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/9_jpg.rf.79b1f548c2719b58fb2ef46b4ae66af5.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/7_jpg.rf.a57445495a547a211b4fb81ffa75120e.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/43_jpg.rf.ae7a62452e8944498fbca571603b074c.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/2_jpg.rf.f901735297106b314e3aa84b6df2a4da.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/8_jpg.rf.5d0837dbe3ec22a9db729b776691ff81.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/istockphoto-490608724-612x612_jpg.rf.06722cf9e9710d7faacebdc4a2b430e6.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/6_jpg.rf.6eba6a4e3bb93fbbd9936500e4a096ff.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/50_jpg.rf.818d000a755e8bd435c8c71f74ffc8c3.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/3_jpg.rf.5206dd923336dd55037f14a105c69999.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/5_jpg.rf.fdce8b9b6e7b033428c482969b3dbec6.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/29_jpg.rf.224d0f665a8e700d2abea3e57189c105.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/4411_jpg.rf.22f1008f7d7a58766cee7708af827a32.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/10_jpg.rf.850e04c7f08a46fff6834cdc078957ee.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/4211_jpg.rf.45984407013a165d90e4c05e6c61c5e6.jpg
+/home/aymen/PycharmProjects/owlvit_segment_anything/segmentation_dataset/valid/images/4_jpg.rf.0a919043d514c2e757358f439089b6e4.jpg

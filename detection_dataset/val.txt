@@ -1,0 +1,10 @@
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/9.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/10.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/7.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/6.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/5.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/8.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/1.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/3.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/2.jpeg
+/home/aymen/PycharmProjects/owlvit_segment_anything/detection_dataset/images/val/4.jpeg
