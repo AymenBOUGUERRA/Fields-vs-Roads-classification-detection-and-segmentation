@@ -1,5 +1,18 @@
 ## Fields vs Roads classification, detection, and segmentation
 
+
+## Installation 
+
+`pip install -r requirements.txt`
+
+`wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth`
+
+
+
+
+
+
+
 ## Classification
 
 **Looking at the data**
@@ -224,7 +237,7 @@ For reference, here are the official Yolov8 results on COCO2017
 ![yolov8l_quantitative.png](doc%2Fyolov8l_quantitative.png)
 
   - Qualitative:
-     - Annotations
+     - Validation Annotations
 ![val_batch0_labels_yolov8l.jpg](doc%2Fval_batch0_labels_yolov8l.jpg)
      - Predictions
 ![val_batch0_pred_yolov8l.jpg](doc%2Fval_batch0_pred_yolov8l.jpg)
@@ -312,6 +325,9 @@ to 75% and using INT8 datatypes.
 
 
 Please feel free to contact me if you have any other questions.
+
+Also, feel free to sent me your classification testing data son I can convert it to segmentation testing data, there 
+however, would be a problem of human bias. (What you consider to be a road or a field can differ for me)
   
 Thank you for reading.
 
