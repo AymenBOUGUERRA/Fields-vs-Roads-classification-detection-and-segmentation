@@ -214,7 +214,6 @@ if __name__ == "__main__":
         boxes = transformed_boxes,
         multimask_output = False,
     )
-    breakpoint()
     plt.figure(figsize=(10, 10))
     plt.imshow(image)
     for mask in masks:

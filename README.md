@@ -3,6 +3,8 @@
 
 ## Installation 
 
+Creat your virtual environment in using Python 3.9 then install dependencies using:
+
 `pip install -r requirements.txt`
 
 `wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth`
@@ -85,13 +87,14 @@ workflow:
 
 
 
-Step one: POC; let's check that we can reliably transform classification images to Detection/Segmentation
+Step one: POC; let's check that we can reliably transform classification images to Detection/Segmentation using owl-vin 
+and SAM
 
 ![6.jpeg](doc%2F6.jpeg)
 ![owlvit_box-6.jpg](doc%2Fowlvit_box-6.jpg)
 ![owlvit_segment_anything_output-6.jpg](doc%2Fowlvit_segment_anything_output-6.jpg)
 
-again
+And again:
 
 ![1.jpeg](dataset%2Ftest_images%2F1.jpeg)
 ![owlvit_box-1.jpg](doc%2Fowlvit_box-1.jpg)
@@ -328,6 +331,10 @@ Please feel free to contact me if you have any other questions.
 
 Also, feel free to sent me your classification testing data son I can convert it to segmentation testing data, there 
 however, would be a problem of human bias. (What you consider to be a road or a field can differ for me)
+
+I couldn't go into the details on how I trained the classification model and what I have done with stable diffusion 
+and many other
+core parts of this project as it would be too long to read. I would happily discuss iy with you if needed.
   
 Thank you for reading.
 

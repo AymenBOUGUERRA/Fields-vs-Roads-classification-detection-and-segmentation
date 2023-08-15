@@ -26,7 +26,7 @@ demonising and completely efferent)
 
 **Introduction:**
 
-The paper titled "Next-Generation Deep Learning Based on Simulators and Synthetic Data" 
+This paper titled "Next-Generation Deep Learning Based on Simulators and Synthetic Data" 
 by Celso M. de Melo et al. discusses the limitations of current deep learning models and 
 proposes a solution to address the bottleneck of labeled data in training these models. 
 The authors highlight the potential of synthetic data generated through rendering pipelines, 
@@ -85,7 +85,7 @@ the development of more capable DNNs.
 
 **Conclusion:**
 
-The paper presents a compelling case for the role of synthetic data and 
+This paper presents a compelling case for the role of synthetic data and 
 simulators in shaping the future of deep learning. By addressing the labeled 
 data bottleneck and enabling the development of more advanced models, synthetic 
 data hold the potential to transform how DNNs learn and understand the world. Moreover, 
