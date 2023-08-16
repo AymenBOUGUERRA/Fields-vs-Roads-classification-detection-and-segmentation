@@ -14,7 +14,7 @@ Paper selected: http://graphics.stanford.edu/courses/cs348n-22-winter/LectureSli
   without huge money, time and labour invested in annotation. In my opinion, the lacking resource in a few yours in 
   deep learning will not be electricity, computing power or skill, but rather the raw lack of new data.
 
-With synthetic date, we would be able to creat endless feed-back loops where each models train the other to become 
+With synthetic data, we would be able to create endless feed-back loops where each models train the other to become 
 better; the generator model will give more diverse and usable data to the discriminator that will better annotate data 
 leading to better understanding and generation. (I am not referring to stable diffusion models as their method is based on 
 demonising and completely efferent)
