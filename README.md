@@ -3,7 +3,7 @@
 
 ## Demo on a test video
 
-[![Test Video](https://img.youtube.com/vi/7ruIdzj4COc/0.jpg)](https://www.youtube.com/watch?v=7ruIdzj4COc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ruIdzj4COc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
