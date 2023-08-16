@@ -3,7 +3,7 @@
 
 ## Demo on a test video
 
-[![demo video](http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg)](https://www.youtube.com/watch?v=7ruIdzj4COc "Demo video")
+[![demo video](doc/img_1.png)](https://www.youtube.com/watch?v=7ruIdzj4COc "Demo video")
 
 
 
