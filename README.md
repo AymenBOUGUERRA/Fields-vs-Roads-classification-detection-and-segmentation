@@ -1,6 +1,12 @@
 ## Fields vs Roads classification, detection, and segmentation
 
 
+## Demo on a test video
+
+[![Test Video](https://img.youtube.com/vi/7ruIdzj4COc/0.jpg)](https://www.youtube.com/watch?v=7ruIdzj4COc)
+
+
+
 ## Installation 
 
 Create your virtual environment using Python 3.9 then install this project's dependencies using:
