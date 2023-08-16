@@ -3,11 +3,7 @@
 
 ## Demo on a test video
 
-    <iframe width="560" height="315"
-src="https://www.youtube.com/watch?v=7ruIdzj4COc" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![demo video](http://img.youtube.com/vi/g7DpYWR8vqA/0.jpg)](https://www.youtube.com/watch?v=7ruIdzj4COc "Demo video")
 
 
 
