@@ -3,7 +3,7 @@
 
 ## Installation 
 
-Creat your virtual environment in using Python 3.9 then install dependencies using:
+Create your virtual environment using Python 3.9 then install this project's dependencies using:
 
 `pip install -r requirements.txt`
 
