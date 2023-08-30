@@ -15,8 +15,11 @@ Create your virtual environment using Python 3.9 then install this project's dep
 `pip install -r requirements.txt`
 
 
-(Optional, only needed if you want to use the demo script that generates the 
-detection dataset using clip) `wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth`
+(Optional) 
+- Only needed if you want to use the demo script that generates the 
+detection dataset using clip)
+
+`wget https://dl.fbaipublicfiles.com/segment_anything/sam_vit_h_4b8939.pth`
 
 
 
