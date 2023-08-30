@@ -4,7 +4,7 @@
 ## Demo on a test video
 Images resized to 1x3x640x640 for inference, each take approx 15ms with yolov8Large on a RTX3060TI 
 
-[![demo video](doc/img_1.png)](https://www.youtube.com/watch?v=7ruIdzj4COc "Demo video")
+[![demo video](doc/img_1.png)](https://www.youtube.com/watch?v=tSzuEsrOG9E&ab_channel=AymenBouguerra "Demo video")
 
 
 
